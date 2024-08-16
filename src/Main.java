@@ -5,7 +5,6 @@ public class Main {
 
         Car car = new Car();
         Triangle triangle = new Triangle();
-
-
+        Point point = new Point();
     }
 }
