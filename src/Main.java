@@ -5,7 +5,7 @@ public class Main {
 
         Car car = new Car();
         Triangle triangle = new Triangle();
-        Person person = new Person();
+
 
     }
 }
